@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+import sys
+
 # good file is the same file from backups
 good_file = "DSC05334.JPG.original"
 bad_file = "DSC05334.JPG.crypted"
